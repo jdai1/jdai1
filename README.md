@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hey**! Welcome to my github profile. Check out my personal [website](https://jdai1.github.io/) for more information.
 
 <!--
 **jdai1/jdai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
